@@ -1,0 +1,3 @@
+# superRes application
+
+moderndesktopminimal template
